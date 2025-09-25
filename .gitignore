@@ -1,0 +1,11 @@
+# Python and Environment files
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
